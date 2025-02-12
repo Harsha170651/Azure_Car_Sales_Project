@@ -20,6 +20,8 @@ This project is an **end-to-end Azure Data Engineering solution** for analyzing 
 - Implement **incremental loading** using **watermark strategy**
 - Store raw data in **Azure Data Lake (Parquet format)**
 
+  ![Image](https://github.com/user-attachments/assets/26a86107-3d60-4166-bae7-455d2eb9e9d1)
+  
 ### 2️⃣ **Data Transformation (Silver Layer)**
 - Process raw data using **Databricks & PySpark**
 - Clean, deduplicate, and join tables for a structured format
@@ -32,6 +34,8 @@ This project is an **end-to-end Azure Data Engineering solution** for analyzing 
 - Convert data into **Delta Lake format** for faster queries & ACID compliance
 - Load into **Power BI** for reporting
 
+  ![Image](https://github.com/user-attachments/assets/97ddc9c1-1707-4530-9e2c-87b5e5de54ee)
+  
 ## 📚 What I Learned
 - **End-to-End Data Pipeline Development** using Azure services
 - **Efficient ETL Processing** with **ADF & Databricks Workflows**
