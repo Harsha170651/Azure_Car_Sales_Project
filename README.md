@@ -3,6 +3,8 @@
 ## 🚀 Project Overview
 This project is an **end-to-end Azure Data Engineering solution** for analyzing car sales data. It follows the **Medallion Architecture (Bronze, Silver, Gold layers)** to process raw data, transform it, and create analytical insights. The project involves **Azure Data Factory, Azure Databricks, and Azure Data Lake** for efficient ETL and data processing.
 
+![Image](https://github.com/user-attachments/assets/d6d25121-95a2-499e-bf7f-f50e966beba8)
+
 ## 📌 Technologies & Tools I have Used
 - **Azure Data Factory (ADF)** - Data ingestion & orchestration
 - **Azure Databricks** - Data transformation using PySpark
