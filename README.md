@@ -41,5 +41,3 @@ This project is an **end-to-end Azure Data Engineering solution** for analyzing 
 
 ## 🎯 Conclusion
 In This Project I have Gained **hands-on experience in designing scalable data pipelines** using Azure. By leveraging **modern cloud-based data engineering techniques**, I successfully **ingested, transformed, and analyzed sales data**. The integration of **Databricks, Delta Lake, and Power BI** enabled efficient real-time insights and **optimized performance for large datasets**.
-
-**📌 Feel free to fork this repository and explore! 🚀**
