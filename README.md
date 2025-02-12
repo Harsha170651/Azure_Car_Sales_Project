@@ -31,13 +31,13 @@ This project is an **end-to-end Azure Data Engineering solution** for analyzing 
 - Load into **Power BI** for reporting
 
 ## 📚 What I Learned
-**End-to-End Data Pipeline Development** using Azure services
-**Efficient ETL Processing** with **ADF & Databricks Workflows**
-**Data Lakehouse Architecture** (Medallion - Bronze, Silver, Gold)
-**Incremental Data Loading** using **watermarking & Delta Lake CDC**
-**Optimizing Data Queries** using **Delta Lake & Partitioning Strategies**
-**Building Analytical Dashboards** using Power BI
-**Version Control & Collaboration** with GitHub
+- **End-to-End Data Pipeline Development** using Azure services
+- **Efficient ETL Processing** with **ADF & Databricks Workflows**
+- **Data Lakehouse Architecture** (Medallion - Bronze, Silver, Gold)
+- **Incremental Data Loading** using **watermarking & Delta Lake CDC**
+- **Optimizing Data Queries** using **Delta Lake & Partitioning Strategies**
+- **Building Analytical Dashboards** using Power BI
+- **Version Control & Collaboration** with GitHub
 
 ## 🎯 Conclusion
 In This Project I have Gained **hands-on experience in designing scalable data pipelines** using Azure. By leveraging **modern cloud-based data engineering techniques**, I successfully **ingested, transformed, and analyzed sales data**. The integration of **Databricks, Delta Lake, and Power BI** enabled efficient real-time insights and **optimized performance for large datasets**.
